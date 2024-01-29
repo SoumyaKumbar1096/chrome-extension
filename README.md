@@ -1,4 +1,4 @@
-# blockp-extension
+# chrome-extension
 
 ## Project setup
 ```
